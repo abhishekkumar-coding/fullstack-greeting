@@ -8,7 +8,6 @@ A simple full-stack application that allows users to enter their name and receiv
 - React frontend with modern UI
 - Fully responsive design
 - Simple and easy-to-use interface
-- Deployed on Render (Backend) and Vercel (Frontend)
 
 ---
 
